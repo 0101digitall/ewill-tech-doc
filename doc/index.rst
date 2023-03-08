@@ -1,8 +1,11 @@
 .. Royal Bridge documentation master file, created by
    sphinx-quickstart on Wed Mar 8 23:00:00 2023.
 
+Home
+####
+
 Welcome to Royal Bridge Architecture Documentation!
-###################################################
+===================================================
 
 .. toctree::
     :maxdepth: 2
