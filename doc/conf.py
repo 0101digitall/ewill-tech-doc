@@ -46,9 +46,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'WordCount'
-copyright = '2018, Harsha'
-author = 'Harsha'
+project = 'Royal Bridge'
+copyright = '2023, 0101 Digit All'
+author = 'Sourav Dey'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -140,7 +140,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'WordCount.tex', 'WordCount Documentation',
-     'Harsha', 'manual'),
+     'Sourav', 'manual'),
 ]
 
 
