@@ -1,17 +1,15 @@
-.. this is a comment, it is not rendered
-   when adding new *.rst files, reference them here
-   in this index.rst for them to be rendered and added to the
-   table of contents
+.. SMSF Society documentation master file, created by
+   sphinx-quickstart on Tue Aug 16 09:05:16 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-
-Basics
-==========
+Welcome to Royal Bridge Architecture Documentation!
+###################################################
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
+    :caption: Contents:
 
-   purpose.rst
-   dependencies.rst
-   usage.rst
-   credit.rst
-   exercises.rst
+    /overview
+    HLD/index
+    LLD/index
